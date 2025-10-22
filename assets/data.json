@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Task Manager",
+    "description": "Aplicación web para gestionar tareas desarrollada con Angular, Node.js y MySQL. Permite crear, editar y completar tareas de forma intuitiva.",
+    "tech": ["Angular", "Node.js", "TypeScript", "MySQL"],
+    "img": "assets/illustration.png",
+    "demo": "https://task-demo-link.com",
+    "code": "https://github.com/josechavarro/task"
+  },
+  {
+    "title": "Portfolio Personal",
+    "description": "Mi portafolio profesional desarrollado con HTML, CSS y JavaScript. Responsive y con un diseño moderno.",
+    "tech": ["HTML", "CSS", "JavaScript"],
+    "img": "assets/illustration.png",
+    "demo": "https://portfolio-demo-link.com",
+    "code": "https://github.com/josechavarro/portfolio"
+  }
+]
